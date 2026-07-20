@@ -29,6 +29,5 @@ int years= fatherAge - (sonAge * 2);
 System.out.println("The father would be twice older than his son in " + years + " years");
 }
 
-
 }
 }
