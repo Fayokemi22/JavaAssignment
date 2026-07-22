@@ -7,7 +7,7 @@ Prints the result
 */
 
 import java.util.Scanner;
-public class farenheit{
+public class Farenheit{
 
 public static double farenheits(int c){
 
