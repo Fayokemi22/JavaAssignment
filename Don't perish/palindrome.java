@@ -1,7 +1,7 @@
 /*
 collect a method that takes in a string
 return true if the forward is the same as backward
-returns an farenheit
+returns 
 A main method that asks the user for a value
 Prints the result
 */
